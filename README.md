@@ -6,7 +6,7 @@
 
 ### Zone 2
 
-![Untitled](README%20md%20cb6fef93123d440296c81e0a6c2db689/Untitled.png)
+![Untitled](README.png)
 
 - **The robot’s code must be written in ProjectController2.java which has some
 code already written to get you started.**
